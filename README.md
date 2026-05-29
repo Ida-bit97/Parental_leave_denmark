@@ -1,7 +1,7 @@
 # Parental_leave_denmark
 End-to-end analysis of the gender gap in Danish parental leave 2015–2024 using Python, SQL and Tableau
 
-# 🇩🇰 Parental Leave Gender Gap in Denmark (2015–2024)
+# Parental Leave Gender Gap in Denmark (2015–2024)
 
 An end-to-end data analysis exploring how the gender gap in parental 
 leave has evolved across Danish municipalities, and what role education 
@@ -38,14 +38,14 @@ The dataset covers:
 
 ## 🔍 Key Findings
 - 📉 The gender gap dropped from **253 days in 2015 to 163 days in 2024** 
-  — a reduction of 90 days over 9 years
+  — a reduction of 90 days over 10 years.
 - ⚖️ The **2022 parental leave law reform** caused a sharp acceleration — 
-  fathers more than doubled their leave days after 2022
+  fathers more than doubled their leave days after 2022. However, the trend is slowing down.
 - 🎓 Fathers with a **master's degree** take nearly twice as many leave 
   days as fathers with lower secondary education — and this gap persists 
-  across all years
-- 🗺️ **Copenhagen and Frederiksberg** consistently show the smallest 
-  gender gap; rural municipalities show the largest
+  across all years.
+- 🗺️ **Municipalities of Greater Copenhagen area** consistently show the smallest 
+  gender gap; rural municipalities show the largest.
 
 ## 📁 Repository Structure
 ```
@@ -55,7 +55,7 @@ The dataset covers:
 
 ## ▶️ How to Run
 1. Clone the repository
-2. Open `parental_leave_analysis.ipynb` in Google Colab or Jupyter
+2. Open `Parental_leave_project.ipynb` in Google Colab or Jupyter
 3. Run all cells — data is fetched live from the Statistics Denmark API
 4. No additional data downloads needed
 
