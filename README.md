@@ -48,8 +48,10 @@ The dataset covers:
   gender gap; rural municipalities show the largest
 
 ## 📁 Repository Structure
+```
 ├── Parental_leave_project.ipynb  # Main analysis notebook
 └── README.md
+```
 
 ## ▶️ How to Run
 1. Clone the repository
